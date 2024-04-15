@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category>
+        <pattern>*</pattern>
+        <template>No poseo una respuesta para eso</template>
+    </category>
+    
+    <category>
+    <pattern>hola</pattern>
+    <template>Bienvenidos al chatbot del equipo Die Morder. ¿En qué puedo ayudarte?</template>
+  </category>
+  
+  <category>
+    <pattern>hola *</pattern>
+    <template>Bienvenidos al chatbot del equipo Die Morder. ¿En qué puedo ayudarte?</template>
+  </category>
+
+   <category>
+       <pattern>por que debo confiar en ti</pattern>?
+       <template>Soy tu asistente virtual y estoy aquí para apoyarte a la búsqueda de aquello que suele estar oculto o que no sueles ver a simple vista, además mi tecnología no es solo para apoyarte a ti en preguntas como lo son
+       ¿Cuál es la tecnología más reciente? o quizás ¿Cuál es la música más escuchada en este 2024?, a pesar de que claro esta puedo responder estas de manera coherente y apropiadas, también estoy para apoyar al mundo a ser mejor cada vez más y por esto debes confiar en mí, la inteligencia artificial con la mejor calidad.
+       A pesar de lo mencionado anteriormente puedo entender tus inquietudes al poner tu credibilidad en una IA pero vuelvo a mencionar que estoy acá para brindarte información útil y realizar una asistencia de manera totalmente objetiva con una completa imparcialidad, disponibilidad y conocimientos.
+       </template>
+   </category>
+   
+   
+   
+</aiml>
